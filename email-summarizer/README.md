@@ -108,7 +108,7 @@ Results are exported for human review.
 How to Run: 
 
 Upload your own email dataset in CSV or JSON format to the data/ folder, then run the notebook:
-notebooks/MF2_Advanced_RAG.ipynb
+notebooks/EmailSummarizationandResponse.ipynb
 
 or to run locally: 
 pip install -r requirements.txt
